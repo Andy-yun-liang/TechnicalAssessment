@@ -1,4 +1,4 @@
-Instructions:
+<h1> Instructions </h1>
 
 1. Download the repository
 2. Open the docx file or the pdf
